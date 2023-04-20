@@ -1,1 +1,1 @@
-# python-calculator
+Python calculador with Python Interface tkinter
