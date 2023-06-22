@@ -6,8 +6,8 @@ Application made in Python with Tkinter with switch theme mode.
 
 Calculator with addition subtraction multiplication division exponentiation root functions.
 
-Dark Mode Preview
+### Dark Mode Preview
 ![](darkmodepreview.png)
 
-Light Mode Preview
+### Light Mode Preview
 ![](lightmodepreview.png)
