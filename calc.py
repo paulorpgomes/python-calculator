@@ -61,15 +61,14 @@ def atualizar_cores():
         if isinstance(widget, (Button, Label, Entry, OptionMenu)):
             widget.config(bg=cor_fundo, fg=cor_texto)
 
-# Declaracao da Interface e seu tamanho
 window = Tk()
 window.title("Calculadora")
 window.geometry("300x270")
 window.config(bg="white")
 
-light=PhotoImage(file="light.png")
+light=PhotoImage(file="img/light.png")
 light = light.subsample(3, 3)
-dark=PhotoImage(file="dark.png")
+dark=PhotoImage(file="img/dark.png")
 dark = dark.subsample(3, 3)
 switch_value = True
 

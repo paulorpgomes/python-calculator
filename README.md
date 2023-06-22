@@ -4,10 +4,10 @@ Application made in Python with Tkinter with switch theme mode.
 
 ## Rubric 
 
-Calculator with addition subtraction multiplication division exponentiation root functions.
+Calculator with addition, subtraction, multiplication, division, exponentiation and root functions.
 
-Dark Mode Preview
-![](darkmodepreview.png)
+### Dark Mode Preview
+![](darkprev.png)
 
-Light Mode Preview
-![](lightmodepreview.png)
+### Light Mode Preview
+![](lightprev.png)
